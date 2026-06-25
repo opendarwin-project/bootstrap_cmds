@@ -1,0 +1,6 @@
+/subprojects/*
+!/subprojects/*.wrap
+!/subprojects/packagefiles/
+/build/
+.cache/
+.DS_Store

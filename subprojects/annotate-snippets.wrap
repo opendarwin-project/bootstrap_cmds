@@ -1,0 +1,9 @@
+[wrap-file]
+directory = annotate-snippets-0.12.16
+source_url = https://static.crates.io/crates/annotate-snippets/0.12.16/download
+source_filename = annotate-snippets-0.12.16.tar.gz
+source_hash = f211a51805bc641f3ad5b7664c77d2547af685cc33b4cd8d31964027a46f13f1
+method = cargo
+
+[provide]
+dependency_names = annotate-snippets-0.12-rs
